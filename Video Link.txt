@@ -1,1 +1,8 @@
+This is a Fully Functional ECommerce Website which is developed in Django Python for front end design I am using HTML CSS, JavaScript, Bootstrap 4, Ajax.
+
+
 https://www.youtube.com/watch?v=AaWPR0EsUI4
+
+
+
+#website  #ECommerce #Django #Python
